@@ -1,0 +1,11 @@
+@import url(../font/font.css);
+.page {
+  font-family: 'Montserrat', sans-serif;
+}
+.header {
+  font-size: 48px;
+  font-weight: 700;
+}
+.text {
+  font-size: 24px;
+}
